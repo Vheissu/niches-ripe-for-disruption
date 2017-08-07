@@ -4,6 +4,8 @@ A lot of developers (myself included) are always on the lookout for a side proje
 
 This Github repository is an ongoing list of niches I have identified as being ripe for disruption. This does not mean there is a lack of competitors, it just means I see opportunities for improvement over existing solutions.
 
+The idea behind this repository is to present some niches that entrepreneurs might not necessarily think of when they're looking for that next idea to tackle.
+
 ## Childcare Management
 
 Our son goes to daycare one day per week. They offer the ability for parents to login and see how their childs day was, what they ate, how many wet/soiled nappies they had and what they learned. Sounds great in theory, but the particular app our daycare uses is horrendous, the interface is clunky and does not work very well on mobile/tablet devices
